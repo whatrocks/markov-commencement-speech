@@ -1,2 +1,5 @@
 env: tensorflow-1.8
 machine: cpu
+data:
+  - source: whatrocks/datasets/commencement/3
+    destination: speeches
