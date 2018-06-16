@@ -3,13 +3,11 @@
 
 You might be able to deliver this pithy soundbite in your next speech:
 
-`The secret to success in start-ups, or any other collaboration, is to stick an old head on a motorcycle weaving his way down the hall, he passed a door – it was empty.`
+> The secret to success in start-ups, or any other collaboration, is to stick an old head on a motorcycle weaving his way down the hall, he passed a door – it was empty.
 
 Or perhaps this wisdom nugget:
 
-```
-Think of your ancestors: Among them, for everybody here, among your ancestors and I even thought about running away from the old ones.
-```
+>Think of your ancestors: Among them, for everybody here, among your ancestors and I even thought about running away from the old ones.
 
 ### Try it now
 
