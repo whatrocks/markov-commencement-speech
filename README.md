@@ -29,7 +29,7 @@ The list of speeches originally started with NPR's [The Best Commencement Speech
 
 If you're in need of your daily dose of cliché, trope, and sentimentality, you can view the speeches [here](https://whatrocks.github.io/commencement-db/) in a simple Gatsby.js site.
 
-#### Thanks to
+### Thanks to
 
 * [markovify](https://github.com/jsvine/markovify)
 * [pandas](https://pandas.pydata.org/)
