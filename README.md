@@ -1,7 +1,15 @@
 # markov-commencement-speech
 🎓 Generate your own commencement speeches with Markov chains and a [dataset](https://floydhub.com/whatrocks/datasets/commencement) of some of the world's "best" commencement speeches.
 
+You might be able to deliver this pithy soundbite in your next speech:
+
 `The secret to success in start-ups, or any other collaboration, is to stick an old head on a motorcycle weaving his way down the hall, he passed a door – it was empty.`
+
+Or perhaps this wisdom nugget:
+
+```
+Think of your ancestors: Among them, for everybody here, among your ancestors and I even thought about running away from the old ones.
+```
 
 ### Try it now
 
@@ -13,7 +21,7 @@ The `speech_maker` notebook has three sections for you to try:
 
 1. Using the entire dataset
 2. Filtering to only the top ten schools by count of speeches given
-3. Filtering to one school at a time using an Jupyter widget
+3. Filtering to one school at a time using a Jupyter widget extension
 
 ### Public dataset
 
@@ -27,5 +35,5 @@ If you're in need of your daily dose of cliché, trope, and sentimentality, you 
 
 * [markovify](https://github.com/jsvine/markovify)
 * [pandas](https://pandas.pydata.org/)
-* gatsby
-* National Public Radio
+* [gatsby](https://www.gatsbyjs.org/)
+* [National Public Radio](https://www.npr.org/)
