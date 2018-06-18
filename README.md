@@ -11,7 +11,7 @@ Or perhaps this wisdom nugget:
 
 ### Try it now
 
-[![Run on FloydHub](https://s3-us-west-2.amazonaws.com/floydhub-assets/button/button.svg)](https://floydhub.com/run?template=https://github.com/whatrocks/markov-commencement-speech)
+[![Run on FloydHub](https://static.floydhub.com/button/button.svg)](https://floydhub.com/run?template=https://github.com/whatrocks/markov-commencement-speech)
 
 Click this button to open a Workspace on FloydHub where you can generate your own "commencement speech style" sentences in a live JupyterLab environment. The [commencement address dataset](https://floydhub.com/whatrocks/datasets/commencement) of ~300 famous speeches will be automatically attached and available in the Workspace.
 
