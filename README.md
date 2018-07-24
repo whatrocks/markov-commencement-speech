@@ -9,6 +9,10 @@ Or perhaps this wisdom nugget:
 
 >Think of your ancestors: Among them, for everybody here, among your ancestors and I even thought about running away from the old ones.
 
+Here's another gem that you can use in your next speech:
+
+> Every athlete who enters the Olympic Games have taught us that we're all going to be the better conditions that primordial life began on this very, very well, in any arena, is improbable at best, irrelevant at worst.
+
 ### Try it now
 
 [![Run on FloydHub](https://static.floydhub.com/button/button.svg)](https://floydhub.com/run?template=https://github.com/whatrocks/markov-commencement-speech)
