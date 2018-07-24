@@ -13,6 +13,10 @@ Here's another gem that I generated using this model:
 
 > Every athlete who enters the Olympic Games have taught us that we're all going to be the better conditions that primordial life began on this very, very well, in any arena, is improbable at best, irrelevant at worst.
 
+And one of my favorites:
+
+> They listened to someone who makes nothing but flaming hot Cheetos.
+
 ### Try it now
 
 [![Run on FloydHub](https://static.floydhub.com/button/button.svg)](https://floydhub.com/run?template=https://github.com/whatrocks/markov-commencement-speech)
