@@ -1,7 +1,7 @@
 # markov-commencement-speech
-🎓 Generate your own commencement speeches with Markov chains and a [dataset](https://floydhub.com/whatrocks/datasets/commencement) of some of the world's "best" commencement speeches.
+🎓 Generate your own commencement speeches with Markov chains and a [dataset](https://floydhub.com/whatrocks/datasets/commencement) of some of the world's "best" commencement speeches. 
 
-You might be able to deliver this pithy soundbite in your next speech:
+After running this project, you might be able to deliver this pithy soundbite in your next speech:
 
 > The secret to success in start-ups, or any other collaboration, is to stick an old head on a motorcycle weaving his way down the hall, he passed a door – it was empty.
 
@@ -9,7 +9,7 @@ Or perhaps this wisdom nugget:
 
 >Think of your ancestors: Among them, for everybody here, among your ancestors and I even thought about running away from the old ones.
 
-Here's another gem that you can use in your next speech:
+Here's another gem that I generated using this model:
 
 > Every athlete who enters the Olympic Games have taught us that we're all going to be the better conditions that primordial life began on this very, very well, in any arena, is improbable at best, irrelevant at worst.
 
